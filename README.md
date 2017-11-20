@@ -1,3 +1,2 @@
 # TestDemo
-this is demo
-谢谢观看！
+使用github第一天。加油！
